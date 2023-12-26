@@ -1,0 +1,45 @@
+.center{
+ text-align: center;
+}
+.color {
+background-color: pink;
+}
+.Pro {
+background-color: white;
+list-style:none ;
+ display:inline-block ;
+ margin-left: 460px;
+ 
+}
+.tran {
+margin-top: 0px;
+margin-bottom: 0px; 
+}
+.pr {
+    padding-left: 50px;
+}
+.Premium {
+    list-style: none;
+    background-color: white;
+    display:inline-block ;
+    margin-left: 20px;
+
+}
+.Prem {
+    padding-left: 40px;
+}
+.Platinum {
+    list-style: none;
+    background-color: white;
+    display: inline-block;
+    margin-left: 20px;
+}
+.plat {
+    padding-left: 30px;
+}
+p {
+    margin-left: 440px;
+     margin-right: 440px;
+    background-color: palevioletred;
+    text-align: center;
+}
