@@ -1,0 +1,41 @@
+.main-wraper {
+    text-align: center;
+}
+.main-oval{
+    width: 350px ;
+    height: 300px;
+}
+.main-menu {
+    display: flex;
+}
+ul {
+    list-style: none;
+    display: flex;
+    margin: auto;
+}
+.main-two {
+ width: 350px;
+ height: 200px;
+ margin-left: 30px;
+}
+.main-img {
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+.navbar {
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+.main-three{
+    width: 350px;
+    height: 200px;
+    margin-left: 30px;
+}
+.main-box{
+ margin-left: 100px;
+ margin-bottom: 50px;
+}
+a {
+    
+}
+
